@@ -59,4 +59,4 @@ def main(number_of_option):
 if __name__ == "__main__":
     while True:
         main(init_options())
-        time.sleep(3
+        time.sleep(3)
